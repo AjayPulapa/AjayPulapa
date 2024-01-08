@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Ajay Pulapa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=AjayPulapa" alt="adi10hero" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ajaypulapa/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaypulapa/" height="30" width="40" /></a>
   
 <a href="https://instagram.com/__ajay__pulapa__" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaypulapa" height="30" width="40" /></a>
