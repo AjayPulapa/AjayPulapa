@@ -24,19 +24,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" target="blank">
+<a href="[https://www.linkedin.com/in/AjayPulapa/](https://www.linkedin.com/in/ajaypulapa/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" height="30" width="40" /></a>
   
-<a href="https://instagram.com/sandesh__30_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh__30_" height="30" width="40" /></a>
+<a href="https://instagram.com/__ajay__pulapa__" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaypulapa" height="30" width="40" /></a>
 
-<a href="https://medium.com/@sandesh__30_" target="blank">
+<a href="https://medium.com/ss" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandesh__30_" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/profile/bhujbalsandesh52" target="blank">
+<a href="https://www.hackerrank.com/profile/ajaypulapa" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/sandesh_30/" target="blank">
+<a href="https://www.leetcode.com/ss" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandesh_30/" height="30" width="40" /></a>
 </p>
 
