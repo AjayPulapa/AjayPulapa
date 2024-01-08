@@ -46,7 +46,7 @@
 
 <br><br>
 <h4 align="center">Top Used Languages</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPulapa&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPulapa&langs_count=10&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
 
 <br><br>
 <h2 align="center"> Github Statistics 📈 </h2>
