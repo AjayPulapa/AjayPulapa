@@ -55,12 +55,7 @@
 <h2 align="center"> Github Statistics 📈 </h2>
   
 <div align="center"> 
-  <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayPulapa&show_icons=true&include_all_commits=true&count_private=true&line_height=40" /></a></div
+  <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayPulapa&show_icons=true&include_all_commits=true&count_private=true&line_height=40" /></a></div>
                                                                                                                                                                                                     
                                                                                                                                                                                                     
-                                                                                                                                                                                                    <div>
-<a href="https://github.com/AjayPlapa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPulapa&layout=compact&langs_count=10&theme=dracula&hide=html,visual%20basic,TSQL,css,scss"/>
-<!--img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chakib-DAII&layout=compact&langs_count=10&theme=dracula"/-->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayPulapa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+                                                                                                                                                                                           
